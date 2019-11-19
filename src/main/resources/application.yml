@@ -1,3 +1,16 @@
 logging:
   level:
     root: INFO
+server:
+  port: 8081
+xxl:
+  job:
+    admin:
+      addresses: http://localhost:9000/xxl-job-admin
+    executor:
+      appname: xxl-job-executor-sample
+      ip:
+      port: 9999
+      logpath: /Users/yaoqijun/logs/xxl-job/jobhandler
+      logretentiondays: -1
+    accessToken:
