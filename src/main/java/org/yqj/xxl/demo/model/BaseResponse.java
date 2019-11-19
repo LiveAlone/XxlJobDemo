@@ -1,4 +1,4 @@
-package org.yqj.boot.demo.model;
+package org.yqj.xxl.demo.model;
 
 import lombok.Data;
 
