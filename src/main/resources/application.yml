@@ -12,5 +12,5 @@ xxl:
       ip:
       port: 9999
       logpath: /Users/yaoqijun/logs/xxl-job/jobhandler
-      logretentiondays: -1
+      logretentiondays: 3
     accessToken:
