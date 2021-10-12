@@ -21,7 +21,7 @@
         <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <xxl.job.version>2.1.1-SNAPSHOT</xxl.job.version>
+        <xxl.job.version>2.3.0</xxl.job.version>
     </properties>
 
     <dependencies>
